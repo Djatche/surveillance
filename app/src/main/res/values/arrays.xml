@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_langage_option">
+        <item>bandenkop</item>
+        <item>tikar</item>
+        <item>vute</item>
+        <item>baveuk</item>
+        <item>français</item>
+        <item>anglais</item>
+        <item>fufulde</item>
+        <item>pidgin</item>
+        <item>haoussa</item>
+    </array>
+    <array name="pref_notification_option">
+        <item>daily</item>
+        <item>weekly</item>
+    </array>
+</resources>

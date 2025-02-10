@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Surveillance First</string>
+    <string name="channel_name">Surveillance Notification</string>
+    <string name="channel_description">This a notification for surveillance</string>
+
+
+</resources>
